@@ -1,0 +1,6 @@
+[package]
+description = Zeek package for DECTRAX Deception Telemetry and Honeytoken Decoy Monitoring
+tags = dectrax, deception, honeypot, threat-detection, intrusion-detection
+version = 1.0.0
+depends =
+    zeek >= 4.0.0
